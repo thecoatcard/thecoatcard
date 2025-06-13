@@ -1,96 +1,110 @@
-Hi there 👋 I'm Anand Kumar Shukla!
-A passionate and driven Computer Science student with a strong foundation in full-stack development, data analysis, and problem-solving. I love building impactful applications and leveraging data to drive informed decisions.
+<h1 align="center">Hi there 👋 I'm Anand Kumar Shukla!</h1>
+<p align="center">
+  <b>A passionate Full-Stack Developer & Data Enthusiast</b><br/>
+  <i>Building impactful apps & using data to drive smart decisions.</i>
+</p>
 
-🚀 Skills
-Category
+---
 
-Technologies
+## 🚀 About Me
 
-Languages
+🎓 I'm a Computer Science Engineering student at **Lovely Professional University** (Punjab, India), currently in my third year.  
+💻 I enjoy developing full-stack applications and solving real-world problems with **data science and analytics**.  
+🌱 Currently exploring system design, data engineering, and advanced algorithms.
 
-C, C++, Java, Python, R, Javascript
+---
 
-Databases
+## 🛠️ Skills & Technologies
 
-MySQL, MongoDB, Derby
+### 👨‍💻 Languages
+`C` · `C++` · `Java` · `Python` · `R` · `JavaScript`
 
-Frameworks
+### 🗄️ Databases
+`MySQL` · `MongoDB` · `Derby`
 
-ReactJS, ExpressJS, NodeJS
+### ⚙️ Frameworks & Libraries
+`ReactJS` · `NodeJS` · `ExpressJS`
 
-Tools & Platforms
+### 📊 Tools & Platforms
+`Hadoop` · `Excel` · `Tableau` · `Power BI` · `Hive`  
+`VS Code` · `IntelliJ IDEA` · `Windows` · `Linux` · `MacOS`
 
-Hadoop, Excel, Tableau, PowerBI, Hive, Vscode, IntelliJ, Windows, Linux, Mac
+---
 
-💡 Projects
-📝 TO-DO APPLICATION
-A full-stack To-Do Application with secure JWT-based user authentication and password encryption.
+## 💡 Featured Projects
 
-Integrated email functionality for password resets via secure links.
+### 📝 [To-Do Application](#)
+A full-stack task manager with secure user authentication and productivity features.
+- JWT-based login with encrypted password handling.
+- Email integration for password reset via `Nodemailer`.
+- CRUD support for task management.
+- Leaderboard design ready for future gamification.
 
-Enabled authenticated users to perform complete CRUD operations on tasks.
+**Tech:** ReactJS · NodeJS · ExpressJS · MongoDB · JWT · Nodemailer  
+**Duration:** *Jan 2025 – Feb 2025*
 
-Planned and designed a leaderboard feature for future implementation to encourage timely task completion.
+---
 
-Tech Stack: ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Nodemailer
+### 🌐 [Developer Portfolio Website](#)
+A sleek, responsive portfolio to showcase my skills, experience, and projects.
+- Smooth UI animations and scroll transitions.
+- Fully responsive for all devices.
+- Modern Tailwind-powered layout.
 
-Duration: Jan 2025 - Feb 2025
+**Tech:** ReactJS · Tailwind CSS · HTML · JavaScript  
+**Duration:** *Feb 2025 – Mar 2025*
 
-🌐 DEVELOPER PORTFOLIO WEBSITE
-A fully responsive and visually appealing personal portfolio website.
+---
 
-Modern UI with smooth animations, interactive components, and elegant section transitions.
+### 📊 [Data Manipulation Helper](#)
+Desktop-based CRUD software with fast sorting and data handling.
+- Built using Java Swing with integrated Merge Sort.
+- Improved data processing speed by 25%.
+- Intuitive interface for efficient interaction.
 
-Showcases projects, skills, and contact information, optimized for all devices.
+**Tech:** Java · DSA · Java Swing  
+**Duration:** *Jun 2024 – Jul 2024*
 
-Tech Stack: ReactJS, HTML, Tailwind CSS, JavaScript
+---
 
-Duration: Feb 2025 - Mar 2025
+## 💼 Experience
 
-📊 DATA MANIPULATION HELPER
-A desktop-based data handler engineered with 10+ CRUD operations.
+### BioLogic Products Pvt Ltd — *Data Science Intern*
+📅 *May 2024 – Jul 2024 | Remote*
 
-Optimized sorting algorithms using Merge Sort ($O(n~log~n)$) for 25% faster data processing.
+- Analyzed ingredient patterns across 10+ product lines.
+- Built regression models for backend feature enhancement (15% accuracy boost).
+- Ensured timely delivery of project phases through strong collaboration.
 
-Facilitated seamless UI interaction to enhance data management efficiency by 10%.
+**Tools:** Excel · Regression · Data Analysis
 
-Tech Stack: Java, DSA, Java Swing
+---
 
-Duration: Jun 2024 - Jul 2024
+## 🎓 Education
 
-💼 Experience
-BioLogic Products Pvt Ltd
-Data Science Intern | Remote
-May 2024 - Jul 2024
+**Bachelor of Technology (CSE)**  
+Lovely Professional University, Punjab, India  
+📊 CGPA: 7.44 | 📅 *Sep 2022 – Present*
 
-Spearheaded analysis of 10+ brand product lines to uncover shared ingredient patterns, driving strategic product alignment and data-backed decisions.
+---
 
-Developed backend feature enhancements by applying regression techniques, contributing to a 15% increase in analytical accuracy.
+## 🏅 Certifications
 
-Led team collaboration through effective communication, ensuring 100% on-time delivery of project milestones over a 3-month internship period.
+- 📊 *Data Analysis with Tableau* — Coursera  
+- 📈 *Excel Fundamentals for Data Analysis* — Macquarie University (Coursera)  
+- 🧠 *SQL Essential Training* — LinkedIn Learning  
 
-Tech: Excel, Regression, Data Analysis
+---
 
-🎓 Education
-Lovely Professional University | Punjab, India
-Bachelor of Technology - Computer Science and Engineering
-CGPA: 7.44
-Since Sep 2022
+## 📫 Let's Connect!
 
-🏆 Certificates
-Data Analysis with Tableau (Coursera: Tableau Learning Partner) - Oct 2024 - Nov 2024
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anand-kumar-shukla)  
+- 💻 [GitHub](https://github.com/thecoatcard)  
+- 📧 Email: kumaranand43856@gmail.com  
+- 📱 Mobile: +91 9129124403  
 
-Excel Fundamentals for Data Analysis (Coursera: Macquarie University) - Jan 2024 - Apr 2024
+---
 
-SQL Essential Training (LinkedIn) - Jan 2023 - Feb 2023
-
-🤝 Let's Connect!
-LinkedIn: Anand Kumar Shukla
-
-GitHub: thecoatcard
-
-Email: kumaranand43856@gmail.com
-
-Mobile: +91 9129124403
-
-Looking forward to collaborating on exciting projects!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thecoatcard&style=flat-square&color=blue" alt="Profile views"/>
+</p>
