@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&center=true&lines=Full-Stack+Developer+%7C+Tech+Explorer;Java+%7C+C%2B%2B+%7C+Python+Enthusiast;Data+Science+%7C+Problem+Solving+Lover;Building+Impactful+Projects+Everyday" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Anand+Kumar+Shukla;Full-Stack+Developer+%7C+Tech+Explorer;Java+%7C+C%2B%2B+%7C+Python+Enthusiast;Data+Science+%7C+Projects+%7C+Problem+Solver" alt="Typing Animation" />
 </p>
 
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thecoatcard&label=Profile%20Views&color=0e75b6&style=flat" alt="thecoatcard" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
 🎓 Final-year CSE student at **LPU**  
-🛠️ Full-stack developer, data nerd, problem-solver  
-💡 Love turning ideas into real-world solutions  
-📈 Constantly learning & building  
-🤝 Always open to collaboration and exciting projects
+👨‍💻 Passionate full-stack developer & data science enthusiast  
+🔍 Love turning real-world ideas into working code  
+📚 Lifelong learner, currently deep-diving into system design & analytics  
+🤝 Open to collaborations, hackathons, and new challenges
 
 ---
 
@@ -20,11 +24,11 @@
 
 - 🧪 **Data Science Intern – BioLogic Products Pvt Ltd**  
   _Remote | May – July 2024_  
-  → Boosted analytics efficiency by 15%  
-  → Delivered 100% of project goals  
+  → Boosted analytics efficiency by **15%** using Python & Pandas  
+  → Achieved **100% project delivery** on time
 
-- 🎓 **B.Tech CSE – Lovely Professional University**  
-  _2022 – Present_ • CGPA: **7.44**
+- 🎓 **B.Tech in Computer Science – Lovely Professional University**  
+  _2022 – Present_ • **CGPA: 7.44**
 
 ---
 
@@ -54,22 +58,22 @@
 
 ## 🧪 Projects
 
-- 📌 **To-Do App**  
-  _Full-stack productivity app with leaderboard, reminders & analytics_
+- ✅ **To-Do App**  
+  _Full-stack productivity tool with leaderboard, reminders & analytics_
 
 - 🌐 **Developer Portfolio**  
-  _Clean, responsive personal site powered by React + GitHub APIs_
+  _Clean, responsive site built with React & GitHub APIs_
 
-- 📊 **Data Manipulation Tool**  
-  _Python tool for fast data wrangling and cleaning_
+- 🧹 **Data Cleaning Tool**  
+  _Python CLI app for efficient data wrangling using Pandas_
 
 ---
 
 ## 🏅 Certifications
 
-- 📊 **Data Analysis with Tableau** – Coursera (Oct–Nov 2024)  
-- 📈 **Excel for Data Analysis** – Coursera (Jan–Apr 2024)  
-- 💾 **SQL Essential Training** – LinkedIn Learning (Jan–Feb 2023)
+- 📊 **Data Analysis with Tableau** – Coursera _(Oct–Nov 2024)_  
+- 📈 **Excel for Data Analysis** – Coursera _(Jan–Apr 2024)_  
+- 💾 **SQL Essential Training** – LinkedIn Learning _(Jan–Feb 2023)_
 
 ---
 
@@ -77,13 +81,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoatcard&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecoatcard&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=thecoatcard&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
@@ -102,9 +102,3 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thecoatcard&label=Profile%20Views&color=0e75b6&style=flat" alt="thecoatcard" />
-</p>
-
-
-
