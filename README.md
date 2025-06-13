@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&center=true&lines=Full-Stack+Developer+%7C+Tech+Explorer;Java+%7C+C%2B%2B+%7C+Python+Enthusiast;Data+Science+%7C+Problem+Solving+Lover;Building+Impactful+Projects+Everyday" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thecoatcard&label=Profile%20Views&color=0e75b6&style=flat" alt="thecoatcard" />
-</p>
+
 
 ---
 
@@ -104,7 +102,9 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thecoatcard&label=Profile%20Views&color=0e75b6&style=flat" alt="thecoatcard" />
+</p>
 
 
 
